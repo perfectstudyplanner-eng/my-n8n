@@ -1,10 +1,11 @@
 {
-  "name": "my-n8n",
+  "name": "n8n-on-render",
   "version": "1.0.0",
+  "main": "index.js",
   "scripts": {
-    "start": "n8n"
+    "start": "node index.js"
   },
   "dependencies": {
-    "n8n": "^1.60.0"
+    "n8n": "^1.52.2"
   }
 }

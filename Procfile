@@ -1,1 +1,1 @@
-web: n8n 
+web: npm start
